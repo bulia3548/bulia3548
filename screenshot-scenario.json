@@ -1,0 +1,78 @@
+{
+  "app": "LuckyVelvetCasinoNights",
+  "reference": {
+    "width": 1242,
+    "height": 2688,
+    "logicalHeight": 2760,
+    "letterbox": 36
+  },
+  "steps": [
+    {
+      "waitLoader": true,
+      "shot": "01_MenuHouse"
+    },
+    {
+      "tapFrac": [
+        0.3155,
+        0.8167
+      ],
+      "label": "DAILY tab",
+      "wait": 1.2,
+      "shot": "02_DailyRewards"
+    },
+    {
+      "tapFrac": [
+        0.5,
+        0.7116
+      ],
+      "label": "CLAIM",
+      "wait": 2.0,
+      "shot": "03_DailyClaimed"
+    },
+    {
+      "tapFrac": [
+        0.5,
+        0.8167
+      ],
+      "label": "MISSIONS tab",
+      "wait": 1.2,
+      "shot": "04_Missions"
+    },
+    {
+      "tapFrac": [
+        0.6845,
+        0.8167
+      ],
+      "label": "PROFILE tab",
+      "wait": 1.2,
+      "shot": "05_Profile"
+    },
+    {
+      "tapFrac": [
+        0.5,
+        0.8964
+      ],
+      "label": "PLAY",
+      "waitLoader": true,
+      "shot": "06_SlotIdle"
+    },
+    {
+      "tapFrac": [
+        0.5,
+        0.8493
+      ],
+      "label": "SPIN",
+      "wait": 3.0,
+      "shot": "07_SlotLineWin"
+    },
+    {
+      "tapFrac": [
+        0.5,
+        0.8493
+      ],
+      "label": "SPIN AGAIN",
+      "wait": 3.6,
+      "shot": "08_BigWinPop"
+    }
+  ]
+}

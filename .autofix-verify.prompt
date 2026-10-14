@@ -1,0 +1,8 @@
+Result check. A human complained about app LuckyVelvetCasinoNights:
+«fix the name of app, now it just random letters and digits, but it must be Lucky Velvet: Casino Nights»
+
+After the fix the app was rebuilt and captured anew: C:/AndroidWorkspace/projects/LuckyVelvetCasinoNights/prompts/screenshots/*.png
+Open and look at EVERY screenshot. Answer whether the complaint is resolved on these frames.
+Fix nothing. As the last line of the answer output exactly one of:
+VERDICT: RESOLVED
+VERDICT: NOT_RESOLVED: <what exactly on which screenshot is still wrong>

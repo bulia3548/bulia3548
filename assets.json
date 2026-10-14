@@ -1,0 +1,188 @@
+{
+  "app": "LuckyVelvetCasinoNights",
+  "style": "glossy stylized 3D casino render, soft studio lighting, chunky rounded forms, thick clean edges, rich saturated colour, game art, not a photo",
+  "assets": [
+    {
+      "name": "bg_menu",
+      "type": "bg",
+      "transparent": false,
+      "target": "Assets/Art/Textures/_BASE/Backgrounds/BG_main.png",
+      "prompt": "Vertical 9:16 mobile game menu background, a deep purple velvet lounge at night, draped curtains at the sides, warm golden spotlights falling from above, a faint pink neon arch glow near the top, the central area dark and uncluttered so overlaid UI stays readable, glossy stylized 3D casino render, soft studio lighting, chunky rounded forms, thick clean edges, rich saturated colour, game art, not a photo, no text, no letters, no logos, no UI elements"
+    },
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "transparent": false,
+      "target": "Assets/Art/Textures/_BASE/Backgrounds/BG_game.png",
+      "prompt": "Vertical 9:16 mobile game background, a dark purple velvet stage wall behind a slot cabinet, low contrast and softly blurred, warm gold rim light along the edges, a faint pink neon haze, the middle flat and uncluttered so overlaid UI stays readable, glossy stylized 3D casino render, soft studio lighting, chunky rounded forms, thick clean edges, rich saturated colour, game art, not a photo, no text, no letters, no logos, no UI elements"
+    },
+    {
+      "name": "sprite_sym_cherry",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_sym_cherry.png",
+      "facing": "front view facing CAMERA, symmetric",
+      "prompt": "a pair of glossy red cherries on a golden stem, front view facing CAMERA, symmetric, one subject centred and fully in frame, crisp silhouette, no text, no other objects, minimal ground shadow, no floor, glossy stylized 3D casino render, soft studio lighting, chunky rounded forms, thick clean edges, rich saturated colour, game art, not a photo"
+    },
+    {
+      "name": "sprite_sym_bell",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_sym_bell.png",
+      "facing": "front view facing CAMERA, symmetric",
+      "prompt": "a polished golden casino bell with a small pink gem on top, front view facing CAMERA, symmetric, one subject centred and fully in frame, crisp silhouette, no text, no other objects, minimal ground shadow, no floor, glossy stylized 3D casino render, soft studio lighting, chunky rounded forms, thick clean edges, rich saturated colour, game art, not a photo"
+    },
+    {
+      "name": "sprite_sym_diamond",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_sym_diamond.png",
+      "facing": "front view facing CAMERA, symmetric",
+      "prompt": "a faceted pink-violet gemstone in a gold setting, front view facing CAMERA, symmetric, one subject centred and fully in frame, crisp silhouette, no text, no other objects, minimal ground shadow, no floor, glossy stylized 3D casino render, soft studio lighting, chunky rounded forms, thick clean edges, rich saturated colour, game art, not a photo"
+    },
+    {
+      "name": "sprite_sym_seven",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_sym_seven.png",
+      "facing": "front view facing CAMERA",
+      "prompt": "a thick three-dimensional golden digit seven as a solid object with a glossy bevel and a pink neon rim, front view facing CAMERA, one subject centred and fully in frame, crisp silhouette, no text, no other objects, minimal ground shadow, no floor, glossy stylized 3D casino render, soft studio lighting, chunky rounded forms, thick clean edges, rich saturated colour, game art, not a photo"
+    },
+    {
+      "name": "sprite_sym_crown",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_sym_crown.png",
+      "facing": "front view facing CAMERA, symmetric",
+      "prompt": "a glossy golden crown set with pink gemstones, front view facing CAMERA, symmetric, one subject centred and fully in frame, crisp silhouette, no text, no other objects, minimal ground shadow, no floor, glossy stylized 3D casino render, soft studio lighting, chunky rounded forms, thick clean edges, rich saturated colour, game art, not a photo"
+    },
+    {
+      "name": "sprite_sym_star",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_sym_star.png",
+      "facing": "front view facing CAMERA, symmetric",
+      "prompt": "a glossy pink and gold five-pointed star with a soft inner glow, front view facing CAMERA, symmetric, one subject centred and fully in frame, crisp silhouette, no text, no other objects, minimal ground shadow, no floor, glossy stylized 3D casino render, soft studio lighting, chunky rounded forms, thick clean edges, rich saturated colour, game art, not a photo"
+    },
+    {
+      "name": "sprite_coin",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_coin.png",
+      "facing": "front view facing CAMERA, symmetric",
+      "prompt": "a glossy golden casino coin seen face-on with a small star embossed in the centre, front view facing CAMERA, symmetric, one subject centred and fully in frame, crisp silhouette, no text, no other objects, minimal ground shadow, no floor, glossy stylized 3D casino render, soft studio lighting, chunky rounded forms, thick clean edges, rich saturated colour, game art, not a photo"
+    },
+    {
+      "name": "sprite_chip",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_chip.png",
+      "facing": "front view facing CAMERA, symmetric",
+      "prompt": "a glossy casino chip, royal purple body with a gold edge ring, seen face-on, front view facing CAMERA, symmetric, one subject centred and fully in frame, crisp silhouette, no text, no other objects, minimal ground shadow, no floor, glossy stylized 3D casino render, soft studio lighting, chunky rounded forms, thick clean edges, rich saturated colour, game art, not a photo"
+    },
+    {
+      "name": "sprite_reel_frame",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_reel_frame.png",
+      "facing": "front view facing CAMERA, symmetric",
+      "prompt": "an ornate rectangular cabinet frame, thick glossy gold border with small pink gem studs at the corners, completely empty and fully transparent in the middle so only the border is drawn, front view facing CAMERA, symmetric, one subject centred and fully in frame, crisp silhouette, no text, no other objects, minimal ground shadow, no floor, glossy stylized 3D casino render, soft studio lighting, chunky rounded forms, thick clean edges, rich saturated colour, game art, not a photo"
+    },
+    {
+      "name": "sprite_btn_gold",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_btn_gold.png",
+      "facing": "front view facing CAMERA, symmetric",
+      "prompt": "a rounded horizontal button face, brushed gold with a glossy highlight along the top and a dark purple rim, flat and even in the middle, front view facing CAMERA, symmetric, one subject centred and fully in frame, crisp silhouette, no text, no other objects, minimal ground shadow, no floor, glossy stylized 3D casino render, soft studio lighting, chunky rounded forms, thick clean edges, rich saturated colour, game art, not a photo"
+    },
+    {
+      "name": "sprite_bar_fill",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_bar_fill.png",
+      "facing": "front view facing CAMERA, symmetric",
+      "prompt": "a horizontal rounded bar segment, glossy gold with a pink highlight along the top, flat and even in the middle, front view facing CAMERA, symmetric, one subject centred and fully in frame, crisp silhouette, no text, no other objects, minimal ground shadow, no floor, glossy stylized 3D casino render, soft studio lighting, chunky rounded forms, thick clean edges, rich saturated colour, game art, not a photo"
+    },
+    {
+      "name": "sprite_reel_streak",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_reel_streak.png",
+      "facing": "front view facing CAMERA, symmetric",
+      "prompt": "a soft vertical streak of warm golden motion light, semi transparent, flat and even in the middle, front view facing CAMERA, symmetric, one subject centred and fully in frame, crisp silhouette, no text, no other objects, minimal ground shadow, no floor, glossy stylized 3D casino render, soft studio lighting, chunky rounded forms, thick clean edges, rich saturated colour, game art, not a photo"
+    },
+    {
+      "name": "sprite_glow_burst",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_glow_burst.png",
+      "facing": "front view facing CAMERA, symmetric",
+      "prompt": "a radial starburst glow, warm gold rays with pink edges, soft falloff, front view facing CAMERA, symmetric, one subject centred and fully in frame, crisp silhouette, no text, no other objects, minimal ground shadow, no floor, glossy stylized 3D casino render, soft studio lighting, chunky rounded forms, thick clean edges, rich saturated colour, game art, not a photo"
+    },
+    {
+      "name": "sprite_emblem",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_emblem.png",
+      "facing": "front view facing CAMERA, symmetric",
+      "prompt": "an abstract emblem, a faceted pink diamond inside a golden arch of small round lamps, front view facing CAMERA, symmetric, one subject centred and fully in frame, crisp silhouette, no text, no other objects, minimal ground shadow, no floor, glossy stylized 3D casino render, soft studio lighting, chunky rounded forms, thick clean edges, rich saturated colour, game art, not a photo"
+    },
+    {
+      "name": "sprite_lamp_bulb",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_lamp_bulb.png",
+      "facing": "front view facing CAMERA, symmetric",
+      "prompt": "a glowing round marquee lamp bulb, warm gold glass with a bright core, front view facing CAMERA, symmetric, one subject centred and fully in frame, crisp silhouette, no text, no other objects, minimal ground shadow, no floor, glossy stylized 3D casino render, soft studio lighting, chunky rounded forms, thick clean edges, rich saturated colour, game art, not a photo"
+    },
+    {
+      "name": "sprite_icon_close",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_icon_close.png",
+      "facing": "front view facing CAMERA, symmetric",
+      "prompt": "a thick rounded cross icon, glossy gold, front view facing CAMERA, symmetric, one subject centred and fully in frame, crisp silhouette, no text, no other objects, minimal ground shadow, no floor, glossy stylized 3D casino render, soft studio lighting, chunky rounded forms, thick clean edges, rich saturated colour, game art, not a photo"
+    },
+    {
+      "name": "sprite_icon_back",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_icon_back.png",
+      "facing": "side view, facing LEFT",
+      "prompt": "a thick rounded chevron arrow icon, glossy gold, side view, facing LEFT, one subject centred and fully in frame, crisp silhouette, no text, no other objects, minimal ground shadow, no floor, glossy stylized 3D casino render, soft studio lighting, chunky rounded forms, thick clean edges, rich saturated colour, game art, not a photo"
+    },
+    {
+      "name": "sprite_icon_pause",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_icon_pause.png",
+      "facing": "front view facing CAMERA, symmetric",
+      "prompt": "a thick rounded pause icon of two vertical bars, glossy gold, front view facing CAMERA, symmetric, one subject centred and fully in frame, crisp silhouette, no text, no other objects, minimal ground shadow, no floor, glossy stylized 3D casino render, soft studio lighting, chunky rounded forms, thick clean edges, rich saturated colour, game art, not a photo"
+    },
+    {
+      "name": "sprite_gift_box",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_gift_box.png",
+      "facing": "front view facing CAMERA, symmetric",
+      "prompt": "a glossy gift chest, deep purple box with a gold lid and a pink ribbon, lid slightly open with warm light spilling out, front view facing CAMERA, symmetric, one subject centred and fully in frame, crisp silhouette, no text, no other objects, minimal ground shadow, no floor, glossy stylized 3D casino render, soft studio lighting, chunky rounded forms, thick clean edges, rich saturated colour, game art, not a photo"
+    },
+    {
+      "name": "sprite_medal",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_medal.png",
+      "facing": "front view facing CAMERA, symmetric",
+      "prompt": "a glossy gold medal with a pink ribbon and a star in the centre, front view facing CAMERA, symmetric, one subject centred and fully in frame, crisp silhouette, no text, no other objects, minimal ground shadow, no floor, glossy stylized 3D casino render, soft studio lighting, chunky rounded forms, thick clean edges, rich saturated colour, game art, not a photo"
+    },
+    {
+      "name": "sprite_avatar_ring",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_avatar_ring.png",
+      "facing": "front view facing CAMERA, symmetric",
+      "prompt": "a circular ornate ring frame, glossy gold set with small pink gems, empty and fully transparent in the middle, front view facing CAMERA, symmetric, one subject centred and fully in frame, crisp silhouette, no text, no other objects, minimal ground shadow, no floor, glossy stylized 3D casino render, soft studio lighting, chunky rounded forms, thick clean edges, rich saturated colour, game art, not a photo"
+    }
+  ]
+}
